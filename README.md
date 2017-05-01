@@ -3,7 +3,9 @@ Check what openGL Version your GPU Support
 
 **Example of output:**
 
-```GL_VERSION_2_0 - Supported
+```
+tapin13@tapin13-MS-7519 ~/openGL/version $ ./main 
+GL_VERSION_2_0 - Supported
 GL_VERSION_3_0 - Supported
 GL_VERSION_4_0 - NOT Supported
 
